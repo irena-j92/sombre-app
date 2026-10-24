@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.openai/*
+!.openai/hosting.json
+*.local
+.DS_Store
+coverage/
